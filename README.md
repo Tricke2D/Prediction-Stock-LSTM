@@ -1,8 +1,8 @@
-**Prediction-Stock-LSTM**
+# **Prediction-Stock-LSTM**
 
 **The model is trained on historical stock data to capture patterns and trends, enabling more accurate future price predictions!**
 
-**Problem Statement:**
+## **Problem Statement:**
 
 Stock market prediction is one of the most challenging tasks in the financial domain due to the high volatility and complex patterns present in stock price movements. Traditional statistical methods often fail to capture non-linear relationships and temporal dependencies in historical stock data, leading to less accurate predictions.
 
@@ -16,7 +16,7 @@ This project aims to develop a stock price prediction system using LSTM, which c
 
 By leveraging machine learning and AI engineering techniques, this project demonstrates how predictive models can be applied to real-world financial problems, providing insights that may assist in decision-making for investors and analysts.
 
-**This application was trained on closing price as shown below**
+### **This application was trained on closing price as shown below**
 
 <img width="1169" height="687" alt="Figure1" src="https://github.com/user-attachments/assets/f4b396f1-eca4-4307-8cde-a63a827f9fa1" />
 
